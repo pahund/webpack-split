@@ -1,0 +1,36 @@
+{
+  "name": "webpack-split",
+  "version": "0.0.1",
+  "description": "Demo for code splitting with webpack",
+  "main": "index.html",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pahund/webpack-split.git"
+  },
+  "author": "Patrick Hund <pahund@team.mobile.de> (https://ebaytech.berlin/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pahund/webpack-split/issues"
+  },
+  "homepage": "https://github.com/pahund/webpack-split#readme",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/preset-env": "^7.2.3",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "css-loader": "^2.1.0",
+    "mini-css-extract-plugin": "^0.5.0",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.2.0"
+  }
+}
