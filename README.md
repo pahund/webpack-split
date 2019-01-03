@@ -12,6 +12,12 @@ Demo for code splitting with webpack
     
 ## Viewing the Demo
 
+### Online
+
+https://pahund.github.io/webpack-split/
+
+### Localhost
+
 Open the file `index.html` in IntelliJ IDEA and select `View` > `Open in browser`
 
 **…or…**
