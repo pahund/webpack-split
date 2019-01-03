@@ -1,6 +1,6 @@
 {
   "name": "webpack-split",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Demo for code splitting with webpack",
   "main": "index.html",
   "scripts": {
